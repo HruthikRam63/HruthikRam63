@@ -1,12 +1,6 @@
 <h1 align="center">Hello All👋! I'm Hruthik  Ram Munganda</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HruthikRam63.HruthikRam63&left_text=%20Profile views:"  />
-</div>
-
-###
+<h4 align="center">An AI enthusiast from India</h4>
 
 <h6 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h6>
 
