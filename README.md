@@ -102,12 +102,15 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <div style="text-align: center;">
-    <img src="https://profile-counter.glitch .me/HruthikRam63/count.svg?" height="25"/>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
   </div>
   <div style="text-align: center; margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HruthikRam63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=codeSTACKr&hide_border=false" height="185" alt="languages graph"/>
   </div>
 </div>
+
 
 <h2 align="left">Unite and Ignite!</h2>
 
