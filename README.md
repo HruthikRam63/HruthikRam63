@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-<img src="https://ibb.co/xXP92Ky](https://pasteboard.co/viNSpaXsgKNu.png" / >
+<img src="https://pasteboard.co/viNSpaXsgKNu.png" / >
 </div>
 
 <h1 align="center">Hello All👋! I'm Hruthik  Ram Munganda</h1>
