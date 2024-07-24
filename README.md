@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-<img height="500" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/267880611/original/05f1006f0d7f2e5bb75e059295eff2ee49249b15/sdsfd-dsfds-sdf-df.png" / >
+<img src="https://ibb.co/xXP92Ky](https://pasteboard.co/viNSpaXsgKNu.png" / >
 </div>
 
 <h1 align="center">Hello All👋! I'm Hruthik  Ram Munganda</h1>
