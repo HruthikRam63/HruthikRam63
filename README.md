@@ -10,7 +10,9 @@
 <h6 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h6>
 
 ###
-
+  <div style="text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=HruthikRam63" height="25"/>
+  </div>
 <h2 align="left">I'm looking for:</h2>
 
 ###
@@ -105,14 +107,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=HruthikRam63" height="25"/>
-  </div>
-  <div style="text-align: center; margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HruthikRam63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=codeSTACKr&hide_border=false" height="185" alt="languages graph"/>
-  </div>
-</div>
+
 
 
 <h2 align="left">Unite and Ignite!</h2>
