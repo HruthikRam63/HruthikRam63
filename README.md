@@ -10,8 +10,8 @@
 <h6 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h6>
 
 ###
-<div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=HruthikRam63" height="25" style="display: block; margin: 0 auto;"/>
+<div align="center">
+<img src="https://profile-counter.glitch .me/HruthikRam63/count.svg?"
 </div>
 
 <h2 align="left">I'm looking for:</h2>
