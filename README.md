@@ -11,8 +11,9 @@
 
 ###
 <div align="center">
-<img src="https://profile-counter.glitch .me/HruthikRam63/count.svg?"
+  <img src="https://profile-counter.glitch.me/{hruthikram63}/count.svg" alt="Visitor Count">
 </div>
+
 
 <h2 align="left">I'm looking for:</h2>
 
