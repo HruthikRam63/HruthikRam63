@@ -7,7 +7,7 @@
 
 <h4 align="center">An AI enthusiast from India</h4>
 
-<h6 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h6>
+<h5 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h5>
 
 ###
 <div align="center">
@@ -19,7 +19,7 @@
 
 ###
 
-<h6 align="left">I'm seeking to leverage my extensive knowledge and skills in Artificial Intelligence and Full Stack Development to secure a challenging role where I can drive innovation and contribute to technological advancements.</h6>
+<h5 align="left">I'm seeking to leverage my extensive knowledge and skills in Artificial Intelligence and Full Stack Development to secure a challenging role where I can drive innovation and contribute to technological advancements.</h5>
 
 ###
 
