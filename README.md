@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">I'm seeking to leverage my extensive knowledge and skills in Artificial Intelligence and Full Stack Development to secure a challenging role where I can drive innovation and contribute to technological advancements.</h5>
+<h3 align="left">I'm seeking to leverage my extensive knowledge and skills in Artificial Intelligence and Full Stack Development to secure a challenging role where I can drive innovation and contribute to technological advancements.</h5>
 
 ###
 
