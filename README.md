@@ -10,9 +10,9 @@
 
 ###
 
-<h4 align="center">An AI enthusiast from India</h4>
+<h3 align="center">An AI enthusiast from India</h4>
 
-<h5 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h5>
+<h3 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h5>
 
 ###
 <div align="center">
@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">I'm seeking to leverage my extensive knowledge and skills in Artificial Intelligence and Full Stack Development to secure a challenging role where I can drive innovation and contribute to technological advancements.</h5>
+<h4 align="left">I'm seeking to leverage my extensive knowledge and skills in Artificial Intelligence and Full Stack Development to secure a challenging role where I can drive innovation and contribute to technological advancements.</h5>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="center">Languages</h4>
+<h3 align="center">Languages</h4>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="center">Libraries/Frameworks</h4>
+<h3 align="center">Libraries/Frameworks</h4>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h4 align="center">Tools/Platforms</h4>
+<h3 align="center">Tools/Platforms</h4>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<h4 align="center">Databases</h4>
+<h3 align="center">Databases</h4>
 
 ###
 
@@ -117,7 +117,7 @@
 
 
 
-<h2 align="left">Unite and Ignite!</h2>
+<h3 align="left">Unite and Ignite!</h2>
 
 ###
 
