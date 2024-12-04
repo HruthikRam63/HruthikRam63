@@ -12,7 +12,7 @@
 
 <h3 align="center">An AI enthusiast from India</h4>
 
-<h3 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About <br> \t AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h5>
+<h3 align="left">🤖 AI & DS Undergrad | B.Tech Final Year | India<br>💡 Innovator and Creative Thinker | Passionate About <br> <emsp> AI and Web Development <br>🎥 Movie Buff | Video & Image Editing Aficionado</h5>
 
 ###
 <div align="center">
